@@ -15,3 +15,9 @@
       + Y con mi arco
       - Y con mi hacha
   + No es tan difícil
+    ```bash
+    sw-1> enable
+    sw-1> configure terminal
+    ```
+    
+
